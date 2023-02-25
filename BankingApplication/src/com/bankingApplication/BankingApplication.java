@@ -90,7 +90,7 @@ public class BankingApplication {
 }
 	
 public static void checkingCredentials() throws InvalidCredentialsException {
-	final String Name="12345@upi"; 
+	final String Name="12345@ybl"; 
 	final String pwd="12345";
 	System.out.println("enter userName"); 
 	String userName=scan.next();
